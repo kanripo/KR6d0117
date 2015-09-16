@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:50:17.860262
+#+DATE: 2015-08-30 19:50:19.496478
 #+TITLE: 大乘方廣總持經
 #+PROPERTY: CBETA_ID T09n0275
 #+PROPERTY: ID KR6d0117
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 09, No. 0275
 #+PROPERTY: VOL 09
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6d0117_T_000-0379a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6d0117_T_001-0379a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.275[No.274]¶
-
- 《大乘方廣總持經》一卷¶
+No. 275 [No. 274]¶
+《大乘方廣總持經》一卷¶
 ¶
 隋天竺三藏毘尼多流支譯¶
 
