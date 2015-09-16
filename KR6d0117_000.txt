@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大乘方廣總持經
+#+DATE: 2015-08-30 19:50:18.107290
+#+PROPERTY: JUAN 0
